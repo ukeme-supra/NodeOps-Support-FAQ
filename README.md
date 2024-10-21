@@ -10,5 +10,6 @@ Some errors are peculiar with
     ![Frozen blocks](./images/Frozen-blocks.png)
     <h4>Description</h4>
     epoch and round are stuck in a particular number
+    <h4>Solution</h4>
   
 </details>
