@@ -6,6 +6,9 @@ Some errors are peculiar with
 
 
 <details>
-  <summary>Frozen Blocks</summary>
-  Accordion content goes here. You can add text, images, code blocks, or anything else supported by Markdown.
+  <summary>Blocks are frozen</summary>
+    ![Frozen blocks](./images/Frozen-blocks.png)
+    <h4>Description</h4>
+    epoch and round are stuck in a particular number
+  
 </details>
